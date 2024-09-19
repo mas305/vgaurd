@@ -1,8 +1,29 @@
-# React + Vite
+# VGaurd
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+VGaurd is a frontend project designed to interface with cameras in parking buildings. It captures images of cars and extracts the car plates' numbers and letters, displaying them along with the date and time of entry. The system provides a convenient way to track vehicles entering parking areas and log their plate information.
 
-Currently, two official plugins are available:
+## Project Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Connects with cameras installed in parking buildings.
+- Captures pictures of cars entering the parking facility.
+- Extracts the car plate numbers and letters from the captured images.
+- Displays the car plate details along with the date and time of entry.
+- Helps parking management keep track of how many cars have entered and their respective plate numbers.
+
+## Installation
+
+To run the project locally:
+
+### Download the Zip File
+
+- Download the repository as a zip file and extract it.
+
+### Using Git
+
+Alternatively, you can clone the repository and install dependencies by following these steps:
+
+```bash
+git clone https://github.com/mas305/vgaurd.git
+cd vgaurd
+npm i
+npm run dev
