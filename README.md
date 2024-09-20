@@ -33,6 +33,6 @@ npm run dev
 Here is a demo video showcasing the VGaurd features:
 
 <video width="600" controls>
-  <source src="D:\mostafa ameen\videos\vgaurd.mp4" type="video/mp4">
+  <source src="./src/assets/vgaurd.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
