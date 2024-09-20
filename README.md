@@ -28,11 +28,10 @@ cd vgaurd
 npm i
 npm run dev
 ```
+
 ## Project Demo
 
 Here is a demo video showcasing the VGaurd features:
 
-<video width="600" controls>
-  <source src="./src/assets/vgaurd.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video on YouTube](https://youtu.be/yyA_Pr7h5cY?feature=shared)
+
